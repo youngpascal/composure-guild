@@ -1,0 +1,11 @@
+/www/sites/composure/bin/Debug/netcoreapp2.0/composure.deps.json
+/www/sites/composure/bin/Debug/netcoreapp2.0/composure.runtimeconfig.json
+/www/sites/composure/bin/Debug/netcoreapp2.0/composure.runtimeconfig.dev.json
+/www/sites/composure/bin/Debug/netcoreapp2.0/composure.dll
+/www/sites/composure/bin/Debug/netcoreapp2.0/composure.pdb
+/www/sites/composure/obj/Debug/netcoreapp2.0/composure.csprojResolveAssemblyReference.cache
+/www/sites/composure/obj/Debug/netcoreapp2.0/composure.csproj.CoreCompileInputs.cache
+/www/sites/composure/obj/Debug/netcoreapp2.0/composure.AssemblyInfoInputs.cache
+/www/sites/composure/obj/Debug/netcoreapp2.0/composure.AssemblyInfo.cs
+/www/sites/composure/obj/Debug/netcoreapp2.0/composure.dll
+/www/sites/composure/obj/Debug/netcoreapp2.0/composure.pdb

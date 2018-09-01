@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h4>@ViewData["Message"]</h4>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div>
+        <p>Hello, @User.Identity.Name.</p>
+
+        <form method="post" asp-controller = "Home" asp-action="Logout">
+            <button type="submit">Log Out</button>
+        </form>
+    </div> 
+}
+else
+{
+<form method = "post" asp-controller = "Home" asp-action = "Login">
+      
+      <div> 
+         <label for = "name">Name</label> 
+         <input type = "text" id = "name" name = "name" />
+      </div>
+   <button type = "submit">Login</button> 
+</form> 
+}
